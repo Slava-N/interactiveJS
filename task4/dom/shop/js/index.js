@@ -3,14 +3,15 @@
 const itemsSpace = document.getElementById('container');
 const cartCount = document.getElementById('cart-count');
 const totalPrice = document.getElementById('cart-total-price');
-
+let totalSum = 0;
 
 function buttonClick() {
     if (event.target.classList.contains('add')) {
         let currClick = event.target;
-        console.log(currClick)
+        let addedSum = Number(currClick.dataset.price);
+        totalSum = totalSum + addedSum;
         cartCount.innerHTML ++;
-        totalPrice.innerHTML = Math.round(totalPrice.innerHTML) + Math.round(currClick.dataset.price);
+        totalPrice.innerHTML = getPriceFormatted(totalSum);
     }
 }
 itemsSpace.addEventListener('click', buttonClick)

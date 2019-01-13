@@ -30,7 +30,14 @@ function backClick() {
 }
 
 function loadContactsToHtml(stringList) {
-    let contactList = JSON.parse(stringList);
+    try {
+        var contactList = JSON.parse(stringList);
+    } catch (e) {
+        console.log(`Ошибка ${e.message}`)
+
+    };
+
+
     let unorderedList = document.getElementsByClassName('contacts-list')[0];
     unorderedList.innerHTML='';
     for (let i=0; i < contactList.length; i++) {
