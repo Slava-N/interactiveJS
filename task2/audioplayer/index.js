@@ -19,6 +19,9 @@ const listLength = songs.length - 1;
 const playSong = function() {
     player.src = songs[currentlyPlaying].path;
     songTitle.title = songs[currentlyPlaying].name;
+    if (mediaplayer.classList.contains('play')) {
+        player.play();
+    }
 };
 
 playSong();
@@ -40,15 +43,11 @@ btnPlay.onclick = () =>  {
 };
 
 btnNext.onclick = function() {
-    btnStop.click();
     currentlyPlaying === listLength ? currentlyPlaying = 0 : currentlyPlaying++;
     playSong();
-    btnPlay.click();
 };
 
 btnPrevious.onclick = function() {
-    btnStop.click();
     currentlyPlaying === 0 ? currentlyPlaying = listLength : currentlyPlaying--;
     playSong();
-    btnPlay.click();
 };
