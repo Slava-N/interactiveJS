@@ -29,15 +29,16 @@ function backClick() {
   }
 }
 
-function loadContactsToHtml(stringList) {
+
+const contactList = function parseContacts(stringList) {
     try {
-        var contactList = JSON.parse(stringList);
+        return JSON.parse(stringList);
     } catch (e) {
         console.log(`Ошибка ${e.message}`)
-
     };
+};
 
-
+function loadContactsToHtml(contactList) {
     let unorderedList = document.getElementsByClassName('contacts-list')[0];
     unorderedList.innerHTML='';
     for (let i=0; i < contactList.length; i++) {
@@ -56,7 +57,8 @@ function init() {
   container = document.getElementById('container');
   container.querySelector('.list-view').addEventListener('click', contactClick);
   container.querySelector('.back').addEventListener('click', backClick);
-  loadContactsToHtml(loadContacts());
+
+  loadContactsToHtml(contactList(loadContacts()));
 }
 
 document.addEventListener('DOMContentLoaded', init);
