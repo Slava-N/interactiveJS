@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ddf8ba2c-375c-4ec9-90e1-754fe1094fdc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/event-object/easter-egg/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task3/event-object/easter-egg/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/event-object/piano/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task3/event-object/piano/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -35,11 +35,37 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="13" selection-start-line="22" selection-start-column="12" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fa-pause</find>
       <find>title</find>
       <find>fourth</find>
       <find>закрыть</find>
@@ -67,8 +93,9 @@
       <find>tabTitle</find>
       <find>add</find>
       <find>cart</find>
-      <find>sort</find>
       <find>before</find>
+      <find>dir</find>
+      <find>sort</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -122,11 +149,12 @@
         <option value="$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/menu/js/menu.js" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/shop/js/cart.js" />
-        <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/css/main.css" />
-        <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" />
         <option value="$PROJECT_DIR$/task3/event-object/piano/index.js" />
         <option value="$PROJECT_DIR$/task3/event-object/easter-egg/index.js" />
+        <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js" />
+        <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html" />
+        <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" />
       </list>
     </option>
   </component>
@@ -154,29 +182,6 @@
             <path>
               <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-              <item name="event-object" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-              <item name="event-object" type="462c0819:PsiDirectoryNode" />
-              <item name="easter-egg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
@@ -245,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task8/event-bubbling-capturing/shop/index.html">
       <method v="2" />
     </configuration>
@@ -263,10 +268,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
       </list>
     </recent_temporary>
@@ -295,12 +300,12 @@
       <workItem from="1548278260090" duration="2264000" />
       <workItem from="1548361077760" duration="98000" />
       <workItem from="1548581349099" duration="135000" />
-      <workItem from="1548594822418" duration="1098000" />
+      <workItem from="1548594822418" duration="2281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62228000" />
+    <option name="totallyTimeSpent" value="63411000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -633,31 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -700,6 +684,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" selection-start-line="22" selection-start-column="12" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
