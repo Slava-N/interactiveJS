@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ddf8ba2c-375c-4ec9-90e1-754fe1094fdc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/html-document-structure/slider/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task7/html-document-structure/slider/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,46 +19,32 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.html">
+        <entry file="file://$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="270">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.js">
+        <entry file="file://$PROJECT_DIR$/task7/html-document-structure/tabs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="13" selection-start-line="22" selection-start-column="12" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="167">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="23" />
+              <folding>
+                <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js">
+        <entry file="file://$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            <state relative-caret-position="580">
+              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -66,9 +53,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>title</find>
-      <find>fourth</find>
-      <find>закрыть</find>
       <find>pho</find>
       <find>opacity</find>
       <find>target</find>
@@ -89,13 +73,16 @@
       <find>loadContactsToHtml</find>
       <find>fore</find>
       <find>input</find>
-      <find>tab</find>
       <find>tabTitle</find>
       <find>add</find>
       <find>cart</find>
       <find>before</find>
       <find>dir</find>
       <find>sort</find>
+      <find>remo</find>
+      <find>forEac</find>
+      <find>remove</find>
+      <find>tab</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -143,10 +130,7 @@
         <option value="$PROJECT_DIR$/task2/audioplayer/index.js" />
         <option value="$PROJECT_DIR$/task2/drum-machine/index.js" />
         <option value="$PROJECT_DIR$/task7/html-document-structure/slider/index.html" />
-        <option value="$PROJECT_DIR$/task7/html-document-structure/slider/index.js" />
-        <option value="$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js" />
         <option value="$PROJECT_DIR$/task7/html-document-structure/tabs/index.html" />
-        <option value="$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/menu/js/menu.js" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/shop/js/cart.js" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/css/main.css" />
@@ -155,6 +139,9 @@
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/index.html" />
         <option value="$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js" />
+        <option value="$PROJECT_DIR$/task7/html-document-structure/slider/index.js" />
+        <option value="$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js" />
+        <option value="$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js" />
       </list>
     </option>
   </component>
@@ -186,35 +173,27 @@
             <path>
               <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task8" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task8" type="462c0819:PsiDirectoryNode" />
-              <item name="event-bubbling-capturing" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
+              <item name="html-document-structure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task8" type="462c0819:PsiDirectoryNode" />
-              <item name="event-bubbling-capturing" type="462c0819:PsiDirectoryNode" />
-              <item name="table" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
+              <item name="html-document-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="tabs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task8" type="462c0819:PsiDirectoryNode" />
-              <item name="event-bubbling-capturing" type="462c0819:PsiDirectoryNode" />
-              <item name="table" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsadv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsadv" type="462c0819:PsiDirectoryNode" />
-              <item name="task8" type="462c0819:PsiDirectoryNode" />
-              <item name="event-bubbling-capturing" type="462c0819:PsiDirectoryNode" />
-              <item name="table" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
+              <item name="html-document-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="tabs" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -250,11 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task8/event-bubbling-capturing/shop/index.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task3/event-object/piano/index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task7/html-document-structure/tabs/index.html">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task3/event-object/easter-egg/index.html">
@@ -263,16 +239,19 @@
     <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task8/event-bubbling-capturing/table/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task8/event-bubbling-capturing/menu/index.html">
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task7/html-document-structure/slider/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsadv/task7/html-document-structure/todo-list/index.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (4)" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -300,12 +279,12 @@
       <workItem from="1548278260090" duration="2264000" />
       <workItem from="1548361077760" duration="98000" />
       <workItem from="1548581349099" duration="135000" />
-      <workItem from="1548594822418" duration="2281000" />
+      <workItem from="1548594822418" duration="4171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63411000" />
+    <option name="totallyTimeSpent" value="65301000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,52 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/slider/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/slider/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/todo-list/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/tabs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/menu/js/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -673,24 +606,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.html">
+    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/slider/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="417">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.js">
+    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/todo-list/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js">
+    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -701,10 +634,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/sort.js">
+    <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="450">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/event-object/easter-egg/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/slider/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task8/event-bubbling-capturing/table/js/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/todo-list/js/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/tabs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task7/html-document-structure/tabs/js/tabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
         </state>
       </provider>
     </entry>

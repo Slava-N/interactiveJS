@@ -36,31 +36,53 @@ function updateControls(currentSlide) {
 function changeImg(event) {
     currentSlide.classList.remove('slide-current');
 
-    switch (event.target) {
-        case prevBtn:
-            if (!prevBtn.classList.contains('disabled')) {
+
+    if (!event.target.classList.contains('disabled')) {
+
+        switch (event.target) {
+            case prevBtn:
                 currentSlide = currentSlide.previousElementSibling;
-            }
-            break;
-
-        case nextBtn:
-            if (!nextBtn.classList.contains('disabled')) {
-            currentSlide = currentSlide.nextElementSibling;
-            }
-            break;
-            
-        case lastBtn:
-            if (!lastBtn.classList.contains('disabled')) {
+                break;
+            case nextBtn:
+                currentSlide = currentSlide.nextElementSibling;
+                break;
+            case lastBtn:
                 currentSlide = currentSlide.parentElement.lastElementChild;
-            }
-            break;
-
-        case firstBtn:
-            if (!firstBtn.classList.contains('disabled')) {
+                break;
+            case firstBtn:
                 currentSlide = currentSlide.parentElement.firstElementChild;
-            }
-            break;
+                break;
+
+
+        }
     }
+
+
+
+    // switch (event.target) {
+    //     case prevBtn:
+    //         if (!prevBtn.classList.contains('disabled')) {
+    //         }
+    //         break;
+    //
+    //     case nextBtn:
+    //         if (!nextBtn.classList.contains('disabled')) {
+    //         currentSlide = currentSlide.nextElementSibling;
+    //         }
+    //         break;
+    //
+    //     case lastBtn:
+    //         if (!lastBtn.classList.contains('disabled')) {
+    //             currentSlide = currentSlide.parentElement.lastElementChild;
+    //         }
+    //         break;
+    //
+    //     case firstBtn:
+    //         if (!firstBtn.classList.contains('disabled')) {
+    //             currentSlide = currentSlide.parentElement.firstElementChild;
+    //         }
+    //         break;
+    // }               }
     console.log();
     currentSlide.classList.add('slide-current');
     updateControls(currentSlide);

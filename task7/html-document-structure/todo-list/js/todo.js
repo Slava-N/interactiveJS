@@ -13,10 +13,10 @@ function changeTaskStatus(event) {
     if ((parentEl.tagName === "SECTION") & !(event.target.tagName === 'H2')) {
         let childToMove = event.target;
         if (childToMove.parentElement.classList.contains('done')) {
-            doneList.removeChild(childToMove);
+            // doneList.removeChild(childToMove);
             toDoList.appendChild(childToMove);
         } else {
-            toDoList.removeChild(childToMove);
+            // toDoList.removeChild(childToMove);
             doneList.appendChild(childToMove);
         }
     }

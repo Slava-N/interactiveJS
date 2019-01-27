@@ -3,7 +3,7 @@
 const articleSection = document.getElementsByClassName('tabs-content')[0];
 
 const tabNavigation = document.getElementsByClassName('tabs-nav')[0];
-const navToClone = tabNavigation.firstElementChild
+const navToClone = tabNavigation.firstElementChild;
 tabNavigation.removeChild(navToClone);
 
 
@@ -29,15 +29,20 @@ function hideTabs () {
     }
 }
 
-
 function tabClick(event) {
-    console.log(event.target)
-    // console.log(articleSection.querySelector(`[data-tab-title]=${event.target.textContent}`))
+
     let activeArticle = Array.from(articlesList).find(element => {
         return element.dataset.tabTitle === event.target.textContent;
     });
     hideTabs();
+
+    for (let tabIcon of tabs) {
+        tabIcon.classList.remove('ui-tabs-active')
+    }
     activeArticle.classList.remove('hidden');
+    event.target.parentElement.classList.add('ui-tabs-active')
+
 }
 
-tabs[0].click()
+
+tabs[0].querySelector('a').click()
