@@ -17,10 +17,7 @@ function shiftSet(event) {
         targetTone = 'lower';
     }
 
-    if (keyboardSet.classList.contains(targetTone)) {
-        return none;
-        
-    } else {
+    if (!keyboardSet.classList.contains(targetTone)) {
         keyboardSet.classList.remove(currentTone);
         keyboardSet.classList.add(targetTone);
     }
