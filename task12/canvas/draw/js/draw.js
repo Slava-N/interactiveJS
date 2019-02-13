@@ -2,7 +2,7 @@
 
 const lineWidth = updateLineWidth();
 const hue = changeHue();
-const canvasSpace = document.getElementById('draw');
+const canvasSpace = document.getElementById('printFigures');
 let drawLine = false;
 const ctx = canvasSpace.getContext('2d');
 ctx.lineCap = 'round' ;

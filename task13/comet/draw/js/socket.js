@@ -1,6 +1,6 @@
 'use strict';
 
-const ws = new WebSocket('wss://neto-api.herokuapp.com/draw');
+const ws = new WebSocket('wss://neto-api.herokuapp.com/printFigures');
 let drawSpace = window.editor;
 
 // function updateDashboard(event) {
